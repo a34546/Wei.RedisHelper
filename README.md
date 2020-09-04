@@ -1,0 +1,2 @@
+# Wei.RedisHelper
+.NetCore  RedisHelper  
