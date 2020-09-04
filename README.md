@@ -20,7 +20,6 @@ readonly RedisClient _client;
 public ValuesController(RedisClient client)
 {
 	_client = client;
-	_logger = logger;
 }
 
 [HttpGet("StringSet")]
