@@ -29,5 +29,7 @@ public Task StringSet()
 	return _client.StringSetAsync("key", "value");
 }
 ```
+### 抢红包Demo
+>  https://github.com/a34546/RedisDemo
 
 >  其他方法就不展示了，自己看源码
